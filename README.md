@@ -71,3 +71,12 @@ The game is structured with:
 - React components for game initialization and management
 
 This is a simplified version of Brotato focusing on the core survival mechanics. The game uses simple geometric shapes for graphics and basic physics for movement and collisions.
+
+
+
+
+
+https://github.com/user-attachments/assets/c7834c06-bb0a-436f-963d-34c2e9ed4e46
+
+
+
